@@ -1,0 +1,6 @@
+c:\users\durguesh.alavani\documents\visual studio 2015\Projects\TestDome\TestDome\bin\Debug\TestDome.exe.config
+C:\Users\durguesh.alavani\Documents\Visual Studio 2015\Projects\TestDome\TestDome\obj\Debug\TestDome.csprojResolveAssemblyReference.cache
+C:\Users\durguesh.alavani\Documents\Visual Studio 2015\Projects\TestDome\TestDome\bin\Debug\TestDome.exe
+C:\Users\durguesh.alavani\Documents\Visual Studio 2015\Projects\TestDome\TestDome\bin\Debug\TestDome.pdb
+C:\Users\durguesh.alavani\Documents\Visual Studio 2015\Projects\TestDome\TestDome\obj\Debug\TestDome.exe
+C:\Users\durguesh.alavani\Documents\Visual Studio 2015\Projects\TestDome\TestDome\obj\Debug\TestDome.pdb
